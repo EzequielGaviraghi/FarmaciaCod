@@ -1,0 +1,37 @@
+{
+    "Medicamento": [
+        {
+            "id": 1,
+            "nome": "estoucomddedonomeuboga",
+            "fabricante": "MCVV",
+            "preco": 666.66,
+            "quantidade": 12
+        }
+    ],
+    "Cliente": [
+        {
+            "id": 1,
+            "nome": "Pingu",
+            "endereco": "marte, rua opositores",
+            "email": "TUDONOSSO@gmail.com",
+            "telefone": 12
+        }
+    ],
+    "Fornecedor":[
+        {
+            "id": 1,
+            "nome": "LUCAS LIRA",
+            "endereco": "na casa do krl",
+            "telefone": 13
+        }
+    ],
+    "Venda":[
+        {
+            "id": 1,
+            "data": "12/12/12",
+            "id_medicamento": 1,
+            "id_cliente": 1
+        }
+    ]
+
+}
