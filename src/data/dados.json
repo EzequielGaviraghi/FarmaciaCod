@@ -2,36 +2,35 @@
     "Medicamento": [
         {
             "id": 1,
-            "nome": "estoucomddedonomeuboga",
-            "fabricante": "MCVV",
-            "preco": 666.66,
-            "quantidade": 12
+            "nome": "Paracetamol",
+            "fabricante": "PharmaCorp",
+            "preco": 10.99,
+            "quantidade": 50
         }
     ],
     "Cliente": [
         {
             "id": 1,
-            "nome": "Pingu",
-            "endereco": "marte, rua opositores",
-            "email": "TUDONOSSO@gmail.com",
-            "telefone": 12
+            "nome": "João Silva",
+            "endereco": "Rua Principal, 123",
+            "email": "joao.silva@example.com",
+            "telefone": "555-1234"
         }
     ],
     "Fornecedor":[
         {
             "id": 1,
-            "nome": "LUCAS LIRA",
-            "endereco": "na casa do krl",
-            "telefone": 13
+            "nome": "Farmácia Bem Estar",
+            "endereco": "Avenida das Flores, 456",
+            "telefone": "555-5678"
         }
     ],
     "Venda":[
         {
             "id": 1,
-            "data": "12/12/12",
+            "data": "2024-03-22",
             "id_medicamento": 1,
             "id_cliente": 1
         }
     ]
-
 }
